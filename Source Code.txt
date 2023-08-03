@@ -1,2 +1,15 @@
-Sorry !
-Source Code Cant be Shared.
+#    Sorry !
+#   Source Code Cant be Shared.
+
+
+Features :- 
+1) integrated g-drive search
+2) Can perform Search Operations in Miliseconds
+3) Earlier to look for a keyword in pdf or in docx file, you had to open that file & then using ( ctrl+f ), you were able to perform search, but now it even if there are 1000000's of images or pdf or docx, you can perform search in seconds.
+4) On-Device Processing: All the image processing, including OCR (Optical Character Recognition) and text matching, is performed directly on the user's device. It prioritizes real-time processing and eliminates the need for constant internet connectivity. { P.S. :- We are not Zuckerberg }
+5) Can Easily search for your files even inside directory inside a directory (Study Material)
+6) Time-Saving and Efficient: With ImageTextSeeker, users can quickly retrieve images related to their specific interests or research topics, saving time and boosting productivity.
+
+Team members: 
+Abhay Raj Gupta
+
