@@ -29,7 +29,7 @@ View Results: Open the DESTINATION folder to access the identified images.
     
     * pip install pytesseract tkinter shutil os re
     
-    * Clone the Repository :- git clone https://github.com/your-username/Image-Text-Seeker.git
+    * Clone the Repository :- https://github.com/abhi786raj/ImageTextSeeker.git
     
     * cd Image-Text-Seeker
     
